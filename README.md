@@ -1,7 +1,7 @@
 # 혼자 공부하는 컴퓨터 구조+운영체제
 <div align = "center">
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ae420c-b4c4-451b-ad63-18754d470b09" />
-<img width="420" height="560" alt="image" src="https://github.com/user-attachments/assets/2d2d5959-0c20-4952-b693-2879da244ca9" />
+<img width="450" height="630" alt="image" src="https://github.com/user-attachments/assets/e2ae420c-b4c4-451b-ad63-18754d470b09" />
+<img width="390" height="520" alt="image" src="https://github.com/user-attachments/assets/2d2d5959-0c20-4952-b693-2879da244ca9" />
 </div>
 
 ## Chapter 01. 컴퓨터 구조 시작하기
