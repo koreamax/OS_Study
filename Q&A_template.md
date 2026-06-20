@@ -12,12 +12,6 @@
   
 </details>
 
-1-3. 
-<details> 
-  <summary>정답</summary>
-  
-</details>
-
 2-1. 
 <details>
   <summary>정답</summary>
